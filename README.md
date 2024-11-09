@@ -67,7 +67,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Tiago061/Tiago061/output/snake.svg" alt="Snake animation" />
-
-###
