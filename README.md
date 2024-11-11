@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- FullStack Developer<br>- @Compass UOL Intern<br>- Constantly Evolving<br>- Currently studying Cloud Computing with AWS<br>- 2 Certifications: GenAI Technical Certification, AI-ASSISTED PROFESSIONAL - 2024<br>- With over 1 year in Software Development, I'm an atypical developer always seeking innovation and continuous improvement to deliver pleasant results.</p>
+<p align="left">- FullStack Developer<br>- @Compass UOL Intern<br>- Constantly Evolving<br>- Currently studying Cloud Computing with AWS<br>- 2 Certifications: GenAI Technical Certification, AI-ASSISTED PROFESSIONAL - 2024
 
 ###
 
