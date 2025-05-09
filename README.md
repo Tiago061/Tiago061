@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- FullStack Developer<br>- @Compass UOL Intern<br>- Constantly Evolving<br>- Currently studying Cloud Computing with AWS<br>- 2 Certifications: GenAI Technical Certification, AI-ASSISTED PROFESSIONAL - 2024
+<p align="left">- FullStack Developer<br>- @Itelecom Fibra Òptica Suport Technical<br>- Constantly Evolving<br>- Currently studying Cloud Computing with AWS<br>- 2 Certifications: GenAI Technical Certification, AI-ASSISTED PROFESSIONAL - 2024
 
 ###
 
